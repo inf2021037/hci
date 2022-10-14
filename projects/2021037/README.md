@@ -43,7 +43,7 @@
 
 ## Εβδομάδα Δεύτερη - Άσκηση γραμμής εντολών
 
-[![asciicast](https://asciinema.org/a/RaulHvhOxdsakhQ6xi925TDJ3.svg)](https://asciinema.org/a/RaulHvhOxdsakhQ6xi925TDJ3)
+https://asciinema.org/a/RaulHvhOxdsakhQ6xi925TDJ3
 
 
 
