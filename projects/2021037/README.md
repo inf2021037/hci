@@ -43,10 +43,12 @@
 
 ## Εβδομάδα Δεύτερη - Άσκηση γραμμής εντολών
 
-Μετά την επιτυχή εγκατάσταση των Arch Linux και με την βοήθεια του asciinema πραγρατοποιήθηκε η καταγραφή του neofetch 
+Μετά την επιτυχή εγκατάσταση των Arch Linux και με την βοήθεια του asciinema πραγρατοποιήθηκε η καταγραφή του neofetch και journal.
 
 
-https://asciinema.org/a/RaulHvhOxdsakhQ6xi925TDJ3
+[neofetch](https://asciinema.org/a/RaulHvhOxdsakhQ6xi925TDJ3)
+
+[journal](https://asciinema.org/a/Yq4Kkqweodkuw5guWULB7KakQ)
 
 
 
