@@ -43,12 +43,18 @@
 
 ## Εβδομάδα Δεύτερη - Άσκηση γραμμής εντολών
 
-Μετά την επιτυχή εγκατάσταση των Arch Linux και με την βοήθεια του asciinema πραγρατοποιήθηκε η καταγραφή του neofetch και journal.
+Μετά την επιτυχή εγκατάσταση των Arch Linux σε VM και με την βοήθεια του asciinema πραγρατοποιήθηκε η καταγραφή του neofetch και journal (1).Έχοντας αργότερα τον σωστό εξοπλισμό εγινε η κανονικη εγκατάσταση του συστηματος και η επαεγγραφη των neofetch και journal (2).
 
 
-[neofetch](https://asciinema.org/a/RaulHvhOxdsakhQ6xi925TDJ3)
+1.
+    [neofetch](https://asciinema.org/a/RaulHvhOxdsakhQ6xi925TDJ3)
 
-[journal](https://asciinema.org/a/Yq4Kkqweodkuw5guWULB7KakQ)
+    [journal](https://asciinema.org/a/Yq4Kkqweodkuw5guWULB7KakQ)
+
+2.
+    [neofetch](https://asciinema.org/a/Y1QzfsNlYFStZy78DWbYJfAX9)
+
+    [journal](https://asciinema.org/a/WvxPYRTzLkcsU6LTy97R1KCwg)
 
 ## Εβδομάδα Τρίτη - Συμμετοχικό περιεχόμενο A1
 
@@ -63,6 +69,12 @@
 [_gallery pull request](https://github.com/ContattoContare/_gallery/pull/5)
 
 [images pull request](https://github.com/ContattoContare/images/pull/5)
+
+<br />
+
+## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών(warm up cli)
+
+
 
 
 
