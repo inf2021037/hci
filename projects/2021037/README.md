@@ -79,6 +79,14 @@ Arch Linux ως το βασικό λογισμικό στον υπολογιστ
  
 [asciinema](https://asciinema.org/a/dtgkaHBM9KPrl5TjUFiIIGKAe)
 
+## Εβδομάδα Τρίτη - Συμμετοχικό περιεχόμενο A2
+
+[Microsoft products](https://enchanting-medovik-75f38a.netlify.app/slides/microsoftprod/)
+
+[Windows compatibility](https://enchanting-medovik-75f38a.netlify.app/slides/windowsuber/)
+
+[Evolution of windows](https://enchanting-medovik-75f38a.netlify.app/timeline/evolution-of-windows/)
+
 
 
 
