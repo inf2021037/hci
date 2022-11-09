@@ -66,9 +66,9 @@
 
 [Windows XP](https://enchanting-medovik-75f38a.netlify.app/gallery/windows-xp/)
 
-[_gallery pull request](https://github.com/ContattoContare/_gallery/pull/5)
+[_gallery pull request](https://github.com/ContattoContare/_gallery/pull/8)
 
-[images pull request](https://github.com/ContattoContare/images/pull/5)
+[images pull request](https://github.com/ContattoContare/images/pull/9)
 
 <br />
 
@@ -83,9 +83,11 @@ Arch Linux ως το βασικό λογισμικό στον υπολογιστ
 
 [Microsoft products](https://enchanting-medovik-75f38a.netlify.app/slides/microsoftprod/)
 
-[Windows compatibility](https://enchanting-medovik-75f38a.netlify.app/slides/windowsuber/)
 
 [Evolution of windows](https://enchanting-medovik-75f38a.netlify.app/timeline/evolution-of-windows/)
+
+
+[pull request](https://github.com/ContattoContare/site/pull/13)
 
 
 
