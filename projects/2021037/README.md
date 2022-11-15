@@ -21,7 +21,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1201) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1329) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1480) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α | [παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1614) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -79,7 +79,7 @@ Arch Linux ως το βασικό λογισμικό στον υπολογιστ
  
 [asciinema](https://asciinema.org/a/dtgkaHBM9KPrl5TjUFiIIGKAe)
 
-## Εβδομάδα Τρίτη - Συμμετοχικό περιεχόμενο A2
+## Εβδομάδα Πέμπτη - Συμμετοχικό περιεχόμενο A2
 
 [Microsoft products](https://enchanting-medovik-75f38a.netlify.app/slides/microsoftprod/)
 
@@ -88,6 +88,21 @@ Arch Linux ως το βασικό λογισμικό στον υπολογιστ
 
 
 [pull request](https://github.com/ContattoContare/site/pull/13)
+
+
+## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
+
+Ο σκοπός αυτού του παραδοτέου ήταν η δημιουργία του βιβλίου
+
+
+[book](https://github.com/inf2021037/kallipos/blob/master/book.pdf)
+
+[windows 7](https://github.com/inf2021037/kallipos/blob/master/contribution/windows7.md)
+
+[filter](https://github.com/inf2021037/kallipos/blob/master/filter.lua) 
+
+
+
 
 
 
